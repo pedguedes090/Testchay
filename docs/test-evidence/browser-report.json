@@ -1,0 +1,18 @@
+{
+  "screenshots": [
+    "00-test-overview.png",
+    "01-home-desktop.png",
+    "02-lobby-four-players.png",
+    "03-countdown-desktop.png",
+    "04-gameplay-desktop.png",
+    "05-gameplay-after-reconnect.png",
+    "06-gameplay-mobile-landscape.png",
+    "07-result-mobile.png",
+    "08-result-desktop.png"
+  ],
+  "javascriptExceptions": 0,
+  "exceptionDetails": [],
+  "roomCode": "33VPD",
+  "resultTitle": "Giao được rồi!",
+  "resultScore": "1723 điểm"
+}
